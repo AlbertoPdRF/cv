@@ -192,7 +192,7 @@
   {\titlefont\color{title}\huge\bfseries}{\thesection}{0em}{}
 % \titlespacing{command}{left spacing}{before spacing}{after spacing}[right]
 \titlespacing*{\section}%
-  {0pt}{1ex plus 0.2ex minus 0.2ex}{-1ex plus 0.1ex minus 0.1ex}
+  {0pt}{1ex plus 0.2ex minus 0.2ex}{1ex plus 0.1ex minus 0.1ex}
 
 % Defines a new command which can be used as a formatter for your Job title and
 % location.
